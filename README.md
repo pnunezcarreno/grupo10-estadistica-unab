@@ -25,6 +25,7 @@ grupo10-estadistica-unab/
 │
 ├── notebook/
 │   └── Formativa1.ipynb         # Jupyter Notebook con el código en Python y el análisis completo (Evaluación Formativa 1)
+├── S1/
 │   └── Sumativa1.ipynb          # Jupyter Notebook con el código Python, EDA e inferencia estadística (Evaluación Sumativa 1)
 │
 └── README.md                    # Documentación del proyecto
@@ -60,7 +61,7 @@ El análisis fue desarrollado en Python. Para reproducir los resultados de maner
 1. Clona este repositorio: `git clone https://github.com/pnunezcarreno/grupo10-estadistica-unab.git`
 2. Asegúrate de que el archivo `Train.csv` se encuentre dentro de la carpeta `/data/`.
 3. **Formativa 1:** Para las fases Fases 1 y 2 abre y ejecuta todas las celdas de `/notebook/Formativa1.ipynb` en tu entorno de Jupyter.
-4. **Sumativa 1:** Para las fases Fases 1 y 2 abre y ejecuta todas las celdas de `/notebook/Sumativa1.ipynb` en tu entorno de Jupyter Notebook.
+4. **Sumativa 1:** Para las fases Fases 1 y 2 abre y ejecuta todas las celdas de `/S1/Sumativa1.ipynb` en tu entorno de Jupyter Notebook.
 
 ---
 *Desarrollado con fines académicos para la asignatura de Estadística Computacional - 2026.*
